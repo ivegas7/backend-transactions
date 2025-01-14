@@ -4,7 +4,7 @@ Backend para gestionar las transacciones de una cuenta de Tenpista. Permite a lo
 
 # Clonar el Repositorio
 Primero, clona el repositorio en tu máquina local:
-git clone https://github.com/ivegas7/backend-transaction.git
+git clone https://github.com/ivegas7/backend-transactions.git
 
 # Ejecutar los Contenedores con Docker Composer
 
